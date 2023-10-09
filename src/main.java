@@ -1,5 +1,5 @@
 public class main {
-    String toString (){
+    public String toString (){
         return "vciao";
     }
 }
