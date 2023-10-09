@@ -4,7 +4,7 @@ public class pesce {
 
     public pesce (String colore, int eta){
         this.colore = colore;
-        this.eta = eta;
+        this.eta = eta; 
     }
 
 }
